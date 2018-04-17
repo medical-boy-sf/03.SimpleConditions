@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BonusScore", "06.BonusSc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumSeconds", "07.SumSeconds\07.SumSeconds.csproj", "{FBD18534-8206-4E24-822E-C045523705C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MetricConverter", "08.MetricConverter\08.MetricConverter.csproj", "{70EF048F-7ACD-4464-9663-75B07F09A526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PasswordGuess", "09.PasswordGuess\09.PasswordGuess.csproj", "{2BD87352-6C9B-44FF-BEC1-3198272E01CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{FBD18534-8206-4E24-822E-C045523705C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBD18534-8206-4E24-822E-C045523705C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBD18534-8206-4E24-822E-C045523705C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EF048F-7ACD-4464-9663-75B07F09A526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EF048F-7ACD-4464-9663-75B07F09A526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EF048F-7ACD-4464-9663-75B07F09A526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EF048F-7ACD-4464-9663-75B07F09A526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD87352-6C9B-44FF-BEC1-3198272E01CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD87352-6C9B-44FF-BEC1-3198272E01CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD87352-6C9B-44FF-BEC1-3198272E01CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD87352-6C9B-44FF-BEC1-3198272E01CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
