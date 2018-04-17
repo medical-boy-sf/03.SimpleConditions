@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.PriceTransport", "18.Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.TubesInAPool", "19.TubesInAPool\19.TubesInAPool.csproj", "{059F2288-6FE1-4559-BC71-56D6C24E93F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.SleepingCatTom", "20.SleepingCatTom\20.SleepingCatTom.csproj", "{24CA324F-4131-4C47-8739-AFAA4B616A91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CA324F-4131-4C47-8739-AFAA4B616A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CA324F-4131-4C47-8739-AFAA4B616A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CA324F-4131-4C47-8739-AFAA4B616A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CA324F-4131-4C47-8739-AFAA4B616A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
