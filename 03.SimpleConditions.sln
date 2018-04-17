@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.TimePlus15Minutes", "14.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.ThreeEqualNumbers", "15.ThreeEqualNumbers\15.ThreeEqualNumbers.csproj", "{6F872206-D2C5-46C5-8803-CFA6057006D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Number0To100ToText", "16.Number0To100ToText\16.Number0To100ToText.csproj", "{4800B346-1520-4E2F-B58F-2150833204E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6F872206-D2C5-46C5-8803-CFA6057006D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F872206-D2C5-46C5-8803-CFA6057006D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F872206-D2C5-46C5-8803-CFA6057006D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4800B346-1520-4E2F-B58F-2150833204E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4800B346-1520-4E2F-B58F-2150833204E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4800B346-1520-4E2F-B58F-2150833204E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4800B346-1520-4E2F-B58F-2150833204E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
