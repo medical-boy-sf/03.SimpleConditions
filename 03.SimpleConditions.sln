@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Number0To100ToText", "16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.PriceTransport", "18.PriceTransport\18.PriceTransport.csproj", "{7278A295-DAC6-459A-832F-2F4AD0698F70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.TubesInAPool", "19.TubesInAPool\19.TubesInAPool.csproj", "{059F2288-6FE1-4559-BC71-56D6C24E93F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{7278A295-DAC6-459A-832F-2F4AD0698F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7278A295-DAC6-459A-832F-2F4AD0698F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7278A295-DAC6-459A-832F-2F4AD0698F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059F2288-6FE1-4559-BC71-56D6C24E93F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
